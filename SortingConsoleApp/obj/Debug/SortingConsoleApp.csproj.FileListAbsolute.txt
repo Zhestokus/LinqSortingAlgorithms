@@ -15,7 +15,6 @@ C:\Users\vaja-java\Documents\MEGAsync\SortingConsoleApp\SortingConsoleApp\obj\De
 C:\Users\vaja-java\Documents\MEGAsync\SortingConsoleApp\SortingConsoleApp\bin\Debug\SortingConsoleApp.exe
 C:\Users\vaja-java\Documents\MEGAsync\SortingConsoleApp\SortingConsoleApp\bin\Debug\SortingConsoleApp.pdb
 C:\Users\vaja-java\Documents\MEGAsync\SortingConsoleApp\SortingConsoleApp\obj\Debug\SortingConsoleApp.csprojResolveAssemblyReference.cache
-C:\Users\VAJA-JAVA\Documents\MEGA\Projects\SortingConsoleApp\SortingConsoleApp\obj\Debug\SortingConsoleApp.csprojResolveAssemblyReference.cache
 C:\Users\VAJA-JAVA\Documents\MEGA\MEGAsync\SortingConsoleApp\SortingConsoleApp\bin\Debug\SortingConsoleApp.exe.config
 C:\Users\VAJA-JAVA\Documents\MEGA\MEGAsync\SortingConsoleApp\SortingConsoleApp\bin\Debug\SortingConsoleApp.exe
 C:\Users\VAJA-JAVA\Documents\MEGA\MEGAsync\SortingConsoleApp\SortingConsoleApp\bin\Debug\SortingConsoleApp.pdb

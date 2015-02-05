@@ -50,7 +50,6 @@
     <Compile Include="Common\Sorters\SorterBase.cs" />
     <Compile Include="Common\Utils\SortingUtils.cs" />
     <Compile Include="Common\Sorters\Quicksort3waySorter.cs" />
-    <Compile Include="StdRandom.cs" />
     <Compile Include="Common\Comparers\ISorterComparer.cs" />
     <Compile Include="Common\ISorterEnumerable.cs" />
     <Compile Include="Common\Sorters\MergesortSorter.cs" />

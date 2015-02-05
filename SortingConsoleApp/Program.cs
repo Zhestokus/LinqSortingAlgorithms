@@ -28,6 +28,7 @@ namespace SortingConsoleApp
             var l = new List<Guid>(@set);
             var query = l.AsQueryable();
             var query1 = l.AsQueryable();
+
             //var sw1 = Stopwatch.StartNew();
             //l.SortBy(n => n).ToList();
             //sw1.Stop();
