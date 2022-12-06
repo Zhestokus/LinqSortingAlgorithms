@@ -1,5 +1,0 @@
-C:\Users\VAJA-JAVA\Documents\MEGA\MEGAsync\SortingConsoleApp\SortingConsoleApp\bin\Release\SortingConsoleApp.exe.config
-C:\Users\VAJA-JAVA\Documents\MEGA\MEGAsync\SortingConsoleApp\SortingConsoleApp\bin\Release\SortingConsoleApp.exe
-C:\Users\VAJA-JAVA\Documents\MEGA\MEGAsync\SortingConsoleApp\SortingConsoleApp\bin\Release\SortingConsoleApp.pdb
-C:\Users\VAJA-JAVA\Documents\MEGA\MEGAsync\SortingConsoleApp\SortingConsoleApp\obj\Release\SortingConsoleApp.exe
-C:\Users\VAJA-JAVA\Documents\MEGA\MEGAsync\SortingConsoleApp\SortingConsoleApp\obj\Release\SortingConsoleApp.pdb
